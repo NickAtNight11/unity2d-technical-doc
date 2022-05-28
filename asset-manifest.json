@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unity2d-technical-doc/static/css/main.08930163.css",
+    "main.js": "/unity2d-technical-doc/static/js/main.101803af.js",
+    "static/js/787.ee283d29.chunk.js": "/unity2d-technical-doc/static/js/787.ee283d29.chunk.js",
+    "index.html": "/unity2d-technical-doc/index.html",
+    "main.08930163.css.map": "/unity2d-technical-doc/static/css/main.08930163.css.map",
+    "main.101803af.js.map": "/unity2d-technical-doc/static/js/main.101803af.js.map",
+    "787.ee283d29.chunk.js.map": "/unity2d-technical-doc/static/js/787.ee283d29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08930163.css",
+    "static/js/main.101803af.js"
+  ]
+}
